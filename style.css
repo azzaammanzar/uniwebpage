@@ -15,14 +15,11 @@ body {
         header ul{
          list-style-type: none;
             background-color: #333;
-           /* position: sticky;
-            top: 0;
-            overflow: hidden;
-            background-color: #333;*/
+        
 
           }
           
-          /* Style the links inside the navigation bar */
+          
           header ul li {
             float: left;
             color: #f2f2f2;
